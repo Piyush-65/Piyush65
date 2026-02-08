@@ -1,1 +1,26 @@
-# hello this is my new project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe width="1350" height="150" src="https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg"></iframe>
+                        <hr><Center><h1>Student id form </h1></Center><hr><br>
+    <center><form action="https://www.harley-davidson.com/in/en/index.php" method="post">
+        <Label for="Email">UserName: </Label>
+        <input type="text" for="Email" placeholder="Enter Text" required="true"><br><br>
+        <Label for="password">Password: </Label>
+        <input type="password" for="Password" placeholder="Enter Password" required="true"><br><br>
+        <label for="Date">Date :</label>
+        <input type="date"><br><br>
+            File :      <input type="file"> <br><br>
+            Color :     <input type="color"><br><br>
+            Range :     <input type="range"><br><br>
+            Submit :    <input type="submit"><br>
+<br>
+        <center><iframe width="700" height="800" src="https://en.wikipedia.org/wiki/Car"></iframe></center>
+    </form></center>
+</body>
+</html>
